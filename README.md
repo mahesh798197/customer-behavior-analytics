@@ -119,5 +119,5 @@ Support data-driven decision making
 #DASHBOARD OF CUSTOMER BEHAVIOR
 
 <p align="center">
-  <img src="Screenshot(35).png" width="800">
+  <img src="Screenshot (35).png" width="800">
 </p>
