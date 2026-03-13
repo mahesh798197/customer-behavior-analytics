@@ -117,3 +117,4 @@ Improve marketing and subscription strategies
 Support data-driven decision making
 
 Dashboard Preview
+![Customer Behavior Dashboard](screenshot(35).png)
