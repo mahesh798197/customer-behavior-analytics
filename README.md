@@ -116,5 +116,8 @@ Improve marketing and subscription strategies
 
 Support data-driven decision making
 
-Dashboard Preview
-![Customer Behavior Dashboard](Screenshot(35).png)
+#DASHBOARD OF CUSTOMER BEHAVIOR
+
+<p align="center">
+  <img src="Screenshot(35).png" width="800">
+</p>
